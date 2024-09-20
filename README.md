@@ -10,7 +10,7 @@ Hello, I’m Menhajul Islam Meraz, a web designer & developer with a passion for
 - 🌱 I’m currently learning European IT Solutions 
 - 💬 Ask me about  LARAVER / PHP / JS / BOOTSTRAP/ CSS / HTML 
 - 📫 How to reach me: Gmail: mdmenhajulislammeraz@gmail.com or  Whatapps  Number : +8801737969095 
-- ⚡ Fun fact: I think I'm funy men 
+- ⚡ Fun fact: I Love Code🥰.  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/menhajul103)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/menhajul103//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/menhajul103)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/menhajul103//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/menhajul103)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@ms0.194)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](menhajul.code-learnerbd.com)  
