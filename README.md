@@ -5,7 +5,7 @@
 
 Hello, I’m Menhajul Islam Meraz, a web designer & developer with a passion for creating meaningful design & Developer that make a lasting impact. With 2 years of experience, I’ve worked with clients across a range of industries, from healthcare to tech startups.
 
- SKILL : LARAVER / PHP / JS / BOOTSTRAP/ CSS / HTML
+ SKILL : LARAVER / PHP / JS / BOOTSTRAP / RESPONSIVE / CSS / HTML
 
 - 🌱 I’m currently learning European IT Solutions 
 - 💬 Ask me about  LARAVER / PHP / JS / BOOTSTRAP/ CSS / HTML 
