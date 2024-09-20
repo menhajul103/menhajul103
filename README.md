@@ -1,6 +1,6 @@
 ![Web Design & Developer.](https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/460601419_1626141171282418_3301909094475517433_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHlYSK-fD1LNePErNam0kEoyD1ICDmA9sXIPUgIOYD2xW_pV6mysGL3jH-4YkvwMV9mdzJQ9Fbb9AUCPKXOyi_t&_nc_ohc=QnZZV20VCG0Q7kNvgGlvraN&_nc_ht=scontent.fdac138-2.fna&oh=00_AYBewU4BX6YyJT94eiM2rIHwRcIIpvhYcGu7H9rOXGSwSw&oe=66F35358)
 
-### Hi there 👋, <strong style="color:#6E98A6">Menhajul Islam Meraz </strong>
+### Hi there 👋,Menhajul Islam Meraz 
 #### Web Design & Developer.
 
 Hello, I’m Menhajul Islam Meraz, a web designer & developer with a passion for creating meaningful design & Developer that make a lasting impact. With 2 years of experience, I’ve worked with clients across a range of industries, from healthcare to tech startups.
